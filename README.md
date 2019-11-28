@@ -5,12 +5,9 @@ A interceptor design injection in http header on a request to kafka
 
 The Project Diagram
 
-
-<p>
-    <img src="images/project.png"/>
-</p>
+![project-diagram](/images/project.png)
 
 The Interceptor Diagram
 
-![interpector-diagram](images/interceptor.png?raw=true)
+![interpector-diagram](/images/interceptor.png)
 
