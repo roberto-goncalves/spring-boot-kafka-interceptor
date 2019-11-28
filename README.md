@@ -7,7 +7,7 @@ The Project Diagram
 
 
 <p>
-    <img src="images/project.png" width="800" height="800" />
+    <img src="images/project.png"/>
 </p>
 
 The Interceptor Diagram
