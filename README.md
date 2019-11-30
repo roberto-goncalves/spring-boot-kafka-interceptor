@@ -32,6 +32,8 @@ To test it, just send a http post request in 0.0.0.0:9098
 
 To see it on your jaeger, just go to http://0.0.0.0:16686 and select any service
 
+Result
 
+![jaeger-result](/images/result.png)
 
 
